@@ -1,0 +1,2 @@
+# StephanieJJ-Hubspot--AI-automation-Engineer---CRM-Data-Quality---AI-orchestrator
+🤖 AI Automation Engineer | CRM Architect  Transformation HubSpot → Architecte automation enterprise • Systèmes robustes (99.95% avail) scaling 10M+ contacts • +40% productivité sales, -80% coûts ops • Orchestration IA : 1 personne + IA = équipe complète  🎯 HubSpot • Event-Driven Archi • Data Quality • AI
