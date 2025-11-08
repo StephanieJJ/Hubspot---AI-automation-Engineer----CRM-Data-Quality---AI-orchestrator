@@ -30,15 +30,6 @@ I help businesses transform chaotic CRM systems into reliable, secure, and compl
 
 ---
 
-## 💻 Technical Expertise
-
-**Core Technologies:**
-- Python (pandas, scikit-learn, requests)
-- HubSpot API v3
-- SQL & Database Management
-- REST APIs & Webhooks
-- Machine Learning for predictive analytics
-
 **Specializations:**
 - Data governance & traceability
 - API security & validation
@@ -118,12 +109,6 @@ Machine learning system for proactive customer retention.
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=10b981&text_color=ffffff&icon_color=10b981)
-
----
-
 ## 🔧 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=10b981)
@@ -164,7 +149,7 @@ Machine learning system for proactive customer retention.
 ## 🌟 Open to Opportunities
 
 I'm currently open to:
-- Full-time positions (Remote or GCC)
+- Remote positions 
 - Consulting projects
 - Technical partnerships
 - Speaking engagements on CRM quality & API security
