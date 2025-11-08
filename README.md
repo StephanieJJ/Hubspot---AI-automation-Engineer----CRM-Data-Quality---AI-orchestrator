@@ -94,7 +94,7 @@ Machine learning system for proactive customer retention.
 ## 📫 Get In Touch
 
 **Professional Inquiries:**
-- 📧 Email: [stephanie.jupiter@example.com](mailto:stephanie.jupiter@example.com)
+- 📧 Email: [stephanie.jupiter@example.com](mailto:jupiter.jacca@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/stephanie-jupiter-jacca](#)
 
 **Languages:** French (native) | English (fluent) | Arabic (beginner)  
