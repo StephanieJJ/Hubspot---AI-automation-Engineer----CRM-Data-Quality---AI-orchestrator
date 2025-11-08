@@ -137,15 +137,6 @@ Machine learning system for proactive customer retention.
 
 ---
 
-## 📈 Current Focus
-
-- 🔬 Expanding machine learning models for CRM analytics
-- 🔒 Advanced API security testing frameworks
-- 📊 Real-time compliance monitoring systems
-- 🤖 AI-driven workflow optimization
-
----
-
 ## 🌟 Open to Opportunities
 
 I'm currently open to:
